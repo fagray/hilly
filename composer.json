@@ -6,7 +6,8 @@
 	"require": {
 		"laravel/framework": "4.2.*",
 		"milon/barcode": "^4.2",
-		"way/generators" : "~2.0"
+		"way/generators" : "~2.0",
+		"ext-mcrypt": "*"
 	},
 	"autoload": {
 		"classmap": [
